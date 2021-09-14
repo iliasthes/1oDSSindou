@@ -70,7 +70,7 @@ L298N Dual H-Bridge Motor Controller (for Arduino) κόστος 4 ευρώ
 Πριν την εκκίνηση για την υλοποίηση του Project μας, υπήρξαν κάποιες προκαταρκτικές δραστηριότητες για την εξοικείωση των μαθητών της ομάδας με την τεχνολογία του Arduino και τις υπόλοιπες συσκευές που χρησιμοποιήθηκαν:
 # Βίντεο Προκαταρκτικών Δραστηριοτήτων για την απόκτηση των προαπαιτούμενων γνώσεων από τους μαθητές
  1. https://www.youtube.com/watch?v=oPoGwAIOS1o&list=PL0vH7MNVFZ17XHHP0ncq4Aj53I02Rmfqi&index=18  (Γενική ενημέρωση για τον διαγωνισμό, οδηγίες για το λογισμικό που θα χρειαστούμε)
- 2. https://www.youtube.com/watch?v=vrhbYpdbpU4&list=PL0vH7MNVFZ17XHHP0ncq4Aj53I02Rmfqi&index=17 (Ενημέρωση των μαθητών για το υλικό που χρησιμοποιηθεί -πλακέτα Arduino, αισθητήρες κλπ)
+ 2. https://www.youtube.com/watch?v=vrhbYpdbpU4&list=PL0vH7MNVFZ17XHHP0ncq4Aj53I02Rmfqi&index=17 (Ενημέρωση των μαθητών για το υλικό που θα χρησιμοποιηθεί -πλακέτα Arduino, αισθητήρες κλπ)
  3. https://www.youtube.com/watch?v=V7onTpDkPv0&list=PL0vH7MNVFZ17XHHP0ncq4Aj53I02Rmfqi&index=16  (Οδηγίες για τους μαθητές που πήρανε το Κουτί Α)
  4. https://www.youtube.com/watch?v=1rEiBZRKL54&list=PL0vH7MNVFZ17XHHP0ncq4Aj53I02Rmfqi&index=15  (Οδηγίες για τους μαθητές που πήρανε το Κουτί Β)
  5. https://www.youtube.com/watch?v=7GMOp0mNFmE&list=PL0vH7MNVFZ17XHHP0ncq4Aj53I02Rmfqi&index=13  (Οδηγίες για τους μαθητές που πήρανε το Κουτί Γ)
